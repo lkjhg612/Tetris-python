@@ -82,3 +82,4 @@ while running:
     pygame.display.update()
     clock.tick(60) #tức là 60 khung hình sẽ chạy trên 1 giây 
     
+    ########om
